@@ -76,6 +76,7 @@ Running
 -----------------
 
 Just pass the path to a .nes image like
+[download .nes image](https://www.nesfiles.com/)
 
 ```
 $ ./SimpleNES ~/Games/SuperMarioBros.nes
