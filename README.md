@@ -65,6 +65,7 @@ and you'll get Makefile or equivalent for your platform, with which you can comp
 
 For e.g., on Linux/OS X/FreeBSD:
 ```
+$ sudo apt-get install libsfml-dev
 $ git clone https://github.com/amhndu/SimpleNES
 $ cd SimpleNES
 $ mkdir build/ && cd build/
