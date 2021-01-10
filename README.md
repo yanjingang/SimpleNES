@@ -79,11 +79,11 @@ Just pass the path to a .nes image like
 [download .nes image](https://www.nesfiles.com/)
 
 ```
-$ ./SimpleNES ../SuperMarioBros.nes
+$ ./SimpleNES ../games/SuperMarioBros.nes
 ```
 To set size of the window,
 ```
-$ ./SimpleNES -w 600 ../Contra.nes
+$ ./SimpleNES -w 600 ../games/Contra.nes
 ```
 For supported command line options, try
 ```
